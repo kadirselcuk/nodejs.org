@@ -277,9 +277,9 @@ function getSource (callback) {
           link: '/en/black-lives-matter/'
         },
         banner: {
-          visible: false,
-          text: 'New security releases are available',
-          link: '/en/blog/vulnerability/september-2020-security-releases/'
+          visible: true,
+          text: 'Node.js Certifications and Trainings are on sale, now until Dec. 8',
+          link: 'https://nodejs.medium.com/cyber-monday-sale-save-up-to-65-on-node-js-certifications-and-training-810a20bad64e'
         }
       }
     }
